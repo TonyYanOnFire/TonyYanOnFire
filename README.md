@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TonyYanOnFire
 - 👀 I’m interested in JavaScript, Python
-- 🌱 I’m currently focusing on leetcode problems
+- 🌱 I’m currently focusing on creating good shit
 - 📫 reach me via tonyyanonfire@gmail.com 
 
 <!---
